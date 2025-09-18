@@ -75,9 +75,9 @@ const employees = [
     },
     {
         "id": 3,
-        "firstName": "Lochan Dhiran",
-        "email": "lochan@3.com",
-        "password": "789",
+        "firstName": "Mansi Pant",
+        "email": "mansipant83@.com",
+        "password": "1234",
         "department": "Design",
         "taskCounts": {
             "active": 2,
