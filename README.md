@@ -40,7 +40,7 @@ Welcome to **EManageX**, a powerful web application designed to streamline emplo
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/CsMansi/EManageX.git](https://github.com/CsMansi/EManageX.git)
+    git clone https://github.com/CsMansi/EManageX.git
     cd EManageX
     ```
 
@@ -71,8 +71,6 @@ Welcome to **EManageX**, a powerful web application designed to streamline emplo
 -   Attach files to tasks if required.
 
 ---
-
-## 📸 Screenshots
 
 ### Admin Dashboard
 
