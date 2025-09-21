@@ -40,7 +40,7 @@ Welcome to **EManageX**, a powerful web application designed to streamline emplo
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/CsMansi/EManageX.git
+    git clone https://github.com/your-username/EManageX.git
     cd EManageX
     ```
 
